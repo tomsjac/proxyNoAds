@@ -5,7 +5,7 @@
 var PROXY_DIRECT = "DIRECT";
 var DIRECT = "DIRECT";
 //var BLACK = "PROXY 8.8.8.8:53";
-var BLACK = "PROXY 1.2.3.4:8080";
+var BLACK = "PROXY 0.0.0.0:3421";
 var WHITE = PROXY_DIRECT;
 
 /**
