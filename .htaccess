@@ -18,3 +18,8 @@ AddDefaultCharset UTF-8
     AddOutputFilterByType DEFLATE application/javascript
     AddOutputFilterByType DEFLATE application/x-javascript
 </IfModule>
+
+# ----------------------------------------------------------------------
+# FORCE MEDIA DOWNLOADS
+# ----------------------------------------------------------------------
+AddType application/octet-stream .js
